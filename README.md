@@ -5,5 +5,5 @@ this repository contains
     2) And the littel bit about JAVASCRIPT
 
 Link:-
-    1)task1 - uptask1.netlify.app
+1)task1 - uptask1.netlify.app
     
